@@ -1,0 +1,44 @@
+_repo: La-vita-nuova_71218
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rossetti, Dante Gabriel
+    aliases:
+    - Rossetti, Gabriel Charles Dante
+    - Rosetti, Dante Gabriel
+    birthdate: 1828
+    deathdate: 1882
+    gutenberg_agent_id: '1268'
+    url: http://www.gutenberg.org/2009/agents/1268
+    wikipedia: https://en.wikipedia.org/wiki/Dante_Gabriel_Rossetti
+creator:
+  author:
+    agent_name: Dante Alighieri
+    alias: Alighieri, Dante
+    birthdate: 1265
+    deathdate: 1321
+    gutenberg_agent_id: '507'
+    url: http://www.gutenberg.org/2009/agents/507
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Dante_Alighieri
+    - https://en.wikipedia.org/wiki/Dante_Alighieri
+description: ''
+gutenberg_issued: '2023-07-18'
+identifiers:
+  gutenberg: '71218'
+language: it
+pgterms:marc904: https://www.ub.uni-koeln.de/cdm/ref/collection/dante/id/121426
+pgterms:marc905: 20230120090818alighieri
+pgterms:marc906: '1902'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by the University and City Library
+  of Cologne)
+publication_note: '  $aItaly :$bRoux e Viarengo, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La vita nuova
+url: http://www.gutenberg.org/ebooks/71218

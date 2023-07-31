@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '1268'
     url: http://www.gutenberg.org/2009/agents/1268
     wikipedia: https://en.wikipedia.org/wiki/Dante_Gabriel_Rossetti
+covers:
+- cover_type: archival
+  image_path: 71218-h/images/cover.jpg
 creator:
   author:
     agent_name: Dante Alighieri
@@ -23,6 +26,8 @@ creator:
     - https://it.wikipedia.org/wiki/Dante_Alighieri
     - https://en.wikipedia.org/wiki/Dante_Alighieri
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71218#La-vita-nuova
 gutenberg_issued: '2023-07-18'
 identifiers:
   gutenberg: '71218'
